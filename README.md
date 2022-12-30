@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeseoung)](https://github.com/yeseoung/github-readme-stats)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeseoung)](https://github.com/yeseoung/github-readme-stats)
 <div align=center> 
 <div align=center><h1>📕 Languages</h1></div>
@@ -16,4 +16,4 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
