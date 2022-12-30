@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeseoung)](https://github.com/yeseoung/github-readme-stats)
 <div align=center> 
 <div align=center><h1>📕 Languages</h1></div>
-  <img src="https://img.shields.io/badge/java-E34F26?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
