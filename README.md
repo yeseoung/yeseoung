@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kys030925@naver.com)](https://github.com/kys030925@naver.com/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeseoung)](https://github.com/yeseoung/github-readme-stats)
 <div align=center><h1>📕 Languages</h1></div>
 
 <div align=center> 
