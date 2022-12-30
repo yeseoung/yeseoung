@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeseoung)](https://github.com/yeseoung/github-readme-stats)
 <div align=center><h1>📕 Languages</h1></div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeseoung)](https://github.com/yeseoung/github-readme-stats)
 <div align=center> 
   <img src="https://img.shields.io/badge/java-E34F26?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
