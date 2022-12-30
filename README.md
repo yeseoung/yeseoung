@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There&fontSize=100)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeseoung)](https://github.com/yeseoung/github-readme-stats)
 <div align=center> 
 <div align=center><h1>📕 Languages</h1></div>
