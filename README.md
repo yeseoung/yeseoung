@@ -18,5 +18,5 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=THANK%20U&fontSize=100&descSize=300)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=THANK%20U&fontSize=100&descSize=300)
 
