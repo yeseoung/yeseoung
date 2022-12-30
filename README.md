@@ -1,5 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=YeSeoung's%20README&fontSize=100)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeseoung)](https://github.com/yeseoung/github-readme-stats)
 <div align=center> 
 <div align=center><h1>📕 Languages</h1></div>
