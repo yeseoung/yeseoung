@@ -1,4 +1,4 @@
-![yeseoung's Github](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![yeseoung's Github](https://github-readme-stats.vercel.app/api?yeseoung=anuraghazra&show_icons=true&theme=radical)
 - <a href="이동할 링크">
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
 </a>
