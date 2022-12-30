@@ -1,3 +1,3 @@
-<img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Java-critical?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-critical?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
