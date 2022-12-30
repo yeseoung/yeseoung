@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=MY%20README&fontSize=100&descSize=300&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=MY%20README&fontSize=100&descSize=300)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeseoung)](https://github.com/yeseoung/github-readme-stats)
 <div align=center> 
