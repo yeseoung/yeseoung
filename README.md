@@ -1,7 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YeSeoung's%20README&fontSize=50&descSize=300)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeseoung)](https://github.com/yeseoung/github-readme-stats)
 <div align=center> 
 <div align=center><h1>📕 Languages</h1></div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -11,7 +10,7 @@
  <div align=center><h1>📒 Frameworks</h1></div>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logoColor=white">
   <br>
  <div align=center><h1>📙 Tools</h1></div>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
