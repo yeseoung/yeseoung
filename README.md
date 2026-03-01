@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YeSeoung's%20README&fontSize=50&descSize=300)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=고예성's%20README&fontSize=50&descSize=300)
 
 <div align=center> 
 <div align=center><h1>📕 Languages</h1></div>
